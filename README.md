@@ -5,7 +5,7 @@
 
 ## How
 监督学习
-- 分类
+- [分类](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/classification)
 - 回归
 
 无监督学习
