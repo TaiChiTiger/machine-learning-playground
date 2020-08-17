@@ -10,4 +10,4 @@
 
 无监督学习
 - 聚类
-- [降维] (https://github.com/TaiChiTiger/machine-learning-playgrounds/tree/master/dimensionality-reduction)
+- [降维](https://github.com/TaiChiTiger/machine-learning-playgrounds/tree/master/dimensionality-reduction)
