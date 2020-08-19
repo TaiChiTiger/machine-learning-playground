@@ -1,5 +1,5 @@
 # 机器学习游乐场
-机器学习游乐场是一个对模型进行交互式可视化的应用程序。我创建这个程序的初衷是
+机器学习游乐场是一个对模型进行交互式可视化的应用程序。
 
 ## 结构
 遵循常用机器学习分类方法，现在该程序完成了5个部分，如下图。
@@ -9,6 +9,7 @@
 监督学习
 
 - [分类](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/classification): [App](http://39.98.239.104:8504/)
+
 用由生成模型生成混合数据集，比较40多个分类模型，如逻辑回归、支持向量机和各类集成方法等
 
 - [回归](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/regression): [App](http://39.98.239.104:8517/)
