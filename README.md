@@ -27,6 +27,7 @@
 - 
 ## 示例
 以分类模型为例：
+
 手动调参：
 <kbd><img title="分类" src="https://github.com/TaiChiTiger/machine-learning-playground/blob/master/images/manual_tuning.jpg"></kbd><br/>
 
