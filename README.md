@@ -6,19 +6,19 @@
 
 <kbd><img title="分类" src="https://github.com/TaiChiTiger/machine-learning-playground/blob/master/images/types_of_ml.jpg"></kbd><br/>
 
-监督学习
+**监督学习**
 
 - [分类](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/classification) [App](http://39.98.239.104:8504/): 用由生成模型生成混合数据集，比较40多个分类模型，如逻辑回归、支持向量机和各类集成方法等
 
 - [回归](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/regression)[App](http://39.98.239.104:8517/): 用一维合成的非线性数据集，比较回归模型，如逻辑回归、支持向量机和各类集成方法等，目前正在开发中
 
-无监督学习
+**无监督学习**
 
-- [聚类](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/clustering)[App](http://39.98.239.104:8508/): 
+- [聚类](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/clustering)[App](http://39.98.239.104:8508/): 用合成数据集，如团状数据、圆形数据和月牙形数据等，比较不同的聚类技术，如K均值、高斯混合和层次聚类等
 
-- [降维](https://github.com/TaiChiTiger/machine-learning-playgrounds/tree/master/dimensionality-reduction): [App](http://39.98.239.104:8509/)
+- [降维](https://github.com/TaiChiTiger/machine-learning-playgrounds/tree/master/dimensionality-reduction)[App](http://39.98.239.104:8509/): 用手写数字识别数据集，比较不同的降维技术，如PCA、Isomap和自编码等
 
-- [异常值探测](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/outlier-detection): [App](http://39.98.239.104:8510/)
+- [异常值探测](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/outlier-detection)[App](http://39.98.239.104:8510/): 用合成数据集，如单聚类数据、等方差数据和变方差数据等，比较不同的异常值探测技术，如单类支持向量机、局部离群因子和Restricted Boltzmann Machine等
 
 ## 特点
 
