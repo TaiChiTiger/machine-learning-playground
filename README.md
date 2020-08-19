@@ -8,15 +8,13 @@
 
 监督学习
 
-- [分类](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/classification): [App](http://39.98.239.104:8504/)
+- [分类](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/classification) [App](http://39.98.239.104:8504/): 用由生成模型生成混合数据集，比较40多个分类模型，如逻辑回归、支持向量机和各类集成方法等
 
-用由生成模型生成混合数据集，比较40多个分类模型，如逻辑回归、支持向量机和各类集成方法等
-
-- [回归](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/regression): [App](http://39.98.239.104:8517/)
+- [回归](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/regression)[App](http://39.98.239.104:8517/): 用一维合成的非线性数据集，比较回归模型，如逻辑回归、支持向量机和各类集成方法等，目前正在开发中
 
 无监督学习
 
-- [聚类](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/clustering): [App](http://39.98.239.104:8508/)
+- [聚类](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/clustering)[App](http://39.98.239.104:8508/): 
 
 - [降维](https://github.com/TaiChiTiger/machine-learning-playgrounds/tree/master/dimensionality-reduction): [App](http://39.98.239.104:8509/)
 
