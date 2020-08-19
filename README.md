@@ -35,4 +35,4 @@
 - [Tensorflow Playground](http://playground.tensorflow.org/)
 - The Element of Statistical Learning: [Website](https://web.stanford.edu/~hastie/ElemStatLearn/), [Amazon](https://www.amazon.com/-/zh/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_1?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&dchild=1&keywords=The+Element+of+Statistical+Learning&qid=1597809496&sr=8-1)
 - [scikit-learn文档](https://scikit-learn.org/stable/user_guide.html)
-## 未来计划
+## 计划
