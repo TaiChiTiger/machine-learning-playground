@@ -29,7 +29,7 @@
 以分类模型为例：
 
 手动调参：
-<kbd><img title="分类" src="https://github.com/TaiChiTiger/machine-learning-playground/blob/master/images/manual_tuning.jpg"></kbd><br/>
+<kbd><img title="例子" src="https://github.com/TaiChiTiger/machine-learning-playground/blob/master/images/manual_tuning.jpg"></kbd><br/>
 
 ## 参考
 - [Tensorflow Playground](http://playground.tensorflow.org/)
