@@ -54,4 +54,4 @@ K均值分类
 ## 未来计划
 1. 给出贝叶斯参数优化更多解释
 2. 添加更多的分类器，尤其概率分类模型。
-3. 从头编写每个模型算法，并上传至[Github]上(https://github.com/TaiChiTiger/machine-learning-algorithms)")
+3. 从头编写每个模型算法，并上传至[Github](https://github.com/TaiChiTiger/machine-learning-algorithms)
