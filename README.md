@@ -28,8 +28,12 @@
 - 尽可能地包含所有模型：开发这个程序的初衷更多是为了教育目的和研究兴趣，所以如果时间允许的话，我将尽可能地展示整个机器学习模型图景
 - 支持移动端访问：在移动端的访问与操作和PC端的相同，方便随时查看。这是由于程序采用了[Streamlit](https://www.streamlit.io/)作为前端，感谢这个产品
 ## 示例
-以随机森林模型的手动调优为例：
+以随机森林模型为例：
+手动调优：
 <kbd><img title="例子" src="https://github.com/TaiChiTiger/machine-learning-playground/blob/master/images/manual_tuning.gif"></kbd><br/>
+
+自动调优：
+<kbd><img title="例子" src="https://github.com/TaiChiTiger/machine-learning-playground/blob/master/images/automatic-tuning.gif"></kbd><br/>
 
 ## 参考
 - [Tensorflow Playground](http://playground.tensorflow.org/)
