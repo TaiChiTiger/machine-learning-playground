@@ -26,11 +26,10 @@
 - 所见即所得：可手动调节模型的主要参数，观察误差、决策边界和验证曲线等信息的变化。同时，提供丰富的图形以增强直觉
 - 自动调优参数：包括格网搜索、TPE采样和贝叶斯优化三种自动调优方法，并解释每种方法的优化过程
 - 尽可能地包含所有模型：开发这个程序的初衷更多是为了教育目的和研究兴趣，所以如果时间允许的话，我将尽可能地展示整个机器学习模型图景
+- 支持移动端访问：在移动端的访问与操作和PC端的相同，方便随时查看。这是由于程序采用了[Streamlit](https://www.streamlit.io/)作为前端，感谢这个产品
 ## 示例
-以分类模型为例：
-
-手动调参：
-<kbd><img title="例子" src="https://github.com/TaiChiTiger/machine-learning-playground/blob/master/images/manual_tuning.jpg"></kbd><br/>
+以随机森林模型的手动调优为例：
+<kbd><img title="例子" src="https://github.com/TaiChiTiger/machine-learning-playground/blob/master/images/manual_tuning.gif"></kbd><br/>
 
 ## 参考
 - [Tensorflow Playground](http://playground.tensorflow.org/)
