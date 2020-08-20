@@ -29,6 +29,7 @@
 - 支持移动端访问：在移动端的访问与操作和PC端的相同，方便随时查看。这是由于程序采用了[Streamlit](https://www.streamlit.io/)作为前端，感谢这个产品
 ## 示例
 以随机森林模型为例：
+
 手动调优：
 <kbd><img title="例子" src="https://github.com/TaiChiTiger/machine-learning-playground/blob/master/images/manual_tuning.gif"></kbd><br/>
 
