@@ -1,4 +1,4 @@
-# 机器学习游乐场
+# 机器学习游乐场-机器学习洞察2 （Machine Learning From Scratch - Machine Learning Insight 2）
 机器学习游乐场是一个对模型进行交互式可视化的应用程序。
 
 ## 结构
