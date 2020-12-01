@@ -5,6 +5,7 @@
 遵循常用机器学习分类方法，现在该程序完成了5个部分，如下图。
 
 <kbd><img title="分类" src="https://github.com/TaiChiTiger/machine-learning-playground/blob/master/images/types_of_ml.jpg"></kbd><br/>
+<kbd><img title="分类" src="https://github.com/TaiChiTiger/machine-learning-playground/blob/master/images/ml_tasks.jpg"></kbd><br/>
 
 这5个部分分别对应5个子程序，点击下面的App可进入。需要说明的是，目前这些程序存放在阿里云，服务器的配置较低，访问和运算速度都很慢，请耐心等待。
 
