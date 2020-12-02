@@ -1,4 +1,4 @@
-# 机器学习游乐场-机器学习洞察2 （Machine Learning From Scratch - Machine Learning Insight 2）[App](http://39.98.239.104:8504/)
+# 机器学习游乐场-机器学习洞察2 （Machine Learning From Scratch - Machine Learning Insight 2）[App](http://39.98.239.104:8505/)
 机器学习游乐场是一个对模型进行交互式可视化的应用程序。
 
 ## 结构
@@ -9,11 +9,11 @@
 <kbd><img title="分类" src="https://github.com/TaiChiTiger/machine-learning-playground/blob/master/images/ml_tasks.jpg"></kbd><br/>
 </p>
 
-这5个部分分别对应5个子程序，点击下面的[App](http://39.98.239.104:8504/)可进入。需要说明的是，目前这些程序存放在阿里云，服务器的配置较低，访问和运算速度都很慢，请耐心等待。
+这5个部分分别对应5个子程序，点击下面的[App](http://39.98.239.104:8505/)可进入。需要说明的是，目前这些程序存放在阿里云，服务器的配置较低，访问和运算速度都很慢，请耐心等待。
 
 **监督学习**
 
-- [分类](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/classification)：用由生成模型生成混合数据集，比较40多个分类模型，如逻辑回归、支持向量机和各类集成方法等
+- [分类](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/classification) [App](http://39.98.239.104:8506/)：用由生成模型生成混合数据集，比较40多个分类模型，如逻辑回归、支持向量机和各类集成方法等
 
 - [回归](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/regression)：用一维合成的非线性数据集，比较回归模型，如逻辑回归、支持向量机和各类集成方法等，目前正在开发中
 
