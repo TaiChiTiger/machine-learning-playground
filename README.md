@@ -9,21 +9,21 @@
 <kbd><img title="分类" src="https://github.com/TaiChiTiger/machine-learning-playground/blob/master/images/ml_tasks.jpg"></kbd><br/>
 </p>
 
-这5个部分分别对应5个子程序，点击下面的App可进入。需要说明的是，目前这些程序存放在阿里云，服务器的配置较低，访问和运算速度都很慢，请耐心等待。
+这5个部分分别对应5个子程序，点击下面的[App](http://39.98.239.104:8504/)可进入。需要说明的是，目前这些程序存放在阿里云，服务器的配置较低，访问和运算速度都很慢，请耐心等待。
 
 **监督学习**
 
-- [分类](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/classification) [App](http://39.98.239.104:8504/): 用由生成模型生成混合数据集，比较40多个分类模型，如逻辑回归、支持向量机和各类集成方法等
+- [分类](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/classification)：用由生成模型生成混合数据集，比较40多个分类模型，如逻辑回归、支持向量机和各类集成方法等
 
-- [回归](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/regression) [App](http://39.98.239.104:8505/): 用一维合成的非线性数据集，比较回归模型，如逻辑回归、支持向量机和各类集成方法等，目前正在开发中
+- [回归](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/regression)：用一维合成的非线性数据集，比较回归模型，如逻辑回归、支持向量机和各类集成方法等，目前正在开发中
 
 **无监督学习**
 
-- [聚类](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/clustering) [App](http://39.98.239.104:8508/): 用合成数据集，如团状数据、圆形数据和月牙形数据等，比较不同的聚类技术，如K均值、高斯混合和层次聚类等
+- [聚类](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/clustering)：用合成数据集，如团状数据、圆形数据和月牙形数据等，比较不同的聚类技术，如K均值、高斯混合和层次聚类等
 
-- [降维](https://github.com/TaiChiTiger/machine-learning-playgrounds/tree/master/dimensionality-reduction) [App](http://39.98.239.104:8509/): 用手写数字识别数据集，比较不同的降维技术，如PCA、Isomap和自编码等
+- [降维](https://github.com/TaiChiTiger/machine-learning-playgrounds/tree/master/dimensionality-reduction)：用手写数字识别数据集，比较不同的降维技术，如PCA、Isomap和自编码等
 
-- [异常值探测](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/outlier-detection) [App](http://39.98.239.104:8510/): 用合成数据集，如单聚类数据、等方差数据和变方差数据等，比较不同的异常值探测技术，如单类支持向量机、局部离群因子和Restricted Boltzmann Machine等
+- [异常值探测](https://github.com/TaiChiTiger/machine-learning-playground/tree/master/outlier-detection)：用合成数据集，如单聚类数据、等方差数据和变方差数据等，比较不同的异常值探测技术，如单类支持向量机、局部离群因子和Restricted Boltzmann Machine等
 
 ## 特点
 - 所见即所得：可手动调节模型的主要参数，观察误差、决策边界和验证曲线等信息的变化。同时，提供丰富的图形以增强直觉
